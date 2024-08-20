@@ -75,7 +75,7 @@ int main()
 ### Output 
 
 (A) <br> 
-![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9A.png) 
+![]([https://github.com/shrey-raj24/CDS-Experiment-9/blob/main/Output%209a.png]).
 
 (B) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9B.png) 
