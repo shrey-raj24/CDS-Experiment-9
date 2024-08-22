@@ -1,18 +1,21 @@
-Aim
-To study and implement C++ Pointer basics.
+# Experiment---9 
 
-Software Used
-Visual Studio Code
+### Aim 
+To study and implement C++ Pointer basics. 
 
-Theory
-Pointers are symbolic representations of addresses.
-They enable programs to stimulate call-by-preference as well as to create and manipulate dynamic data structures.
-Iterating over elements in arrays or other data structures is one of the main use of pointers.
-The address of the variable that we are working with is assigned to the pointer variable that points to the same data type.
+### Software Used 
+Visual Studio Code <br> 
 
-Code
-(A)
+### Theory 
+Pointers are symbolic representations of addresses. <br> 
+They enable programs to stimulate call-by-preference as well as to create and manipulate dynamic data structures. <br> 
+Iterating over elements in arrays or other data structures is one of the main use of pointers. <br> 
+The address of the variable that we are working with is assigned to the pointer variable that points to the same data type. <br>  
 
+### Code 
+
+(A) <br> 
+```
 // Program to illustrate pointers. 
 
 #include <bits/stdc++.h> 
@@ -38,8 +41,10 @@ int main()
     geeks();
     return 0;
 } 
-(B)
+```
 
+(B) <br> 
+```
 // Program to create one-dimensional array of pointers. 
 
 #include <iostream> 
@@ -65,8 +70,10 @@ int main()
 
     return 0; 
 }
-(C)
+```
 
+(C) <br> 
+```
 #include <iostream>
 using namespace std;
 int main()
@@ -89,15 +96,17 @@ int main()
     cout<<" After increment:" << (void*)ch<<endl;
     return 0;
 }
-Output
-(A)
+```
 
+### Output 
 
-(B)
+(A) <br> 
+![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9A.png) 
 
+(B) <br> 
+![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9B.png) 
 
-(C)
-
-
-Conclusion
-Learnt about pointers in C++.
+(C) <br> 
+![](https://github.com/Shloka-Patel/Experiment---9-/blob/main/Output_9C.png) 
+### Conclusion 
+Learnt about pointers in C++. 
